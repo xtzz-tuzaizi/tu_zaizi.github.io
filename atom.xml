@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-15T13:00:31.899Z</updated>
+  <updated>2018-01-15T14:20:48.491Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>认识html</title>
+    <link href="http://yoursite.com/2018/01/15/01.html%E6%A0%87%E7%AD%BE/"/>
+    <id>http://yoursite.com/2018/01/15/01.html标签/</id>
+    <published>2018-01-15T14:20:04.177Z</published>
+    <updated>2018-01-15T14:20:48.491Z</updated>
+    
+    <content type="html"><![CDATA[<p>@(认识标签)[各种标签]</p><p>####html<br>是超文本标记语言，页面中包含图片、链接、音乐、程序、等非文字元素，是一种标记语言，而不是一种编程语言。</p><p>####网页</p><blockquote><p>html+css</p></blockquote><p>####常用标签<br><strong>标题标签</strong></p><blockquote><p>h1-h6 ， h1在页面中只能出现一次</p></blockquote><p><strong>p标签</strong></p><blockquote><p>段落标签 能自动换行，会自动换行</p></blockquote><p><strong>b/strong标签</strong></p><blockquote><p>b标签定义加粗标签<br>strong不仅仅加粗还有强调的作用</p></blockquote><p><strong>span/pre标签</strong></p><blockquote><p>span无固定格式，应用样式才会改变<br>pre可以定义预格式化的文本，被包围在pre元素中的文本通常会保留空格和换行符，文本也会显示为等宽字体</p></blockquote><p><strong>del标签</strong></p><blockquote><p>已被删除</p></blockquote><p><strong>i标签</strong></p><blockquote><p>显示斜体文本效果</p></blockquote><p><strong>em</strong></p><blockquote><p>定义文本中强调的内容</p></blockquote><p><strong>sup</strong></p><blockquote><p>上标</p></blockquote><p><strong>sub</strong></p><blockquote><p>下标</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;@(认识标签)[各种标签]&lt;/p&gt;
+&lt;p&gt;####html&lt;br&gt;是超文本标记语言，页面中包含图片、链接、音乐、程序、等非文字元素，是一种标记语言，而不是一种编程语言。&lt;/p&gt;
+&lt;p&gt;####网页&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;html+css&lt;/p&gt;
+&lt;/blo
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>小记</title>
